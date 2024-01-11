@@ -4,6 +4,15 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Osinachi+Mbakamma!;" />
 </h1>
 
+Passionate about AI, Machine Learning and Data Science
+
+* 🌍  I'm based in Poland
+* ✉️  You can contact me at [osinachimbakamma@gmail.com](mailto:osinachimbakamma@gmail.com)
+* 🚀  I'm currently working on [AI and Machine Learning Projects](http://s)
+* 🧠  I'm learning Generative AI
+* 🤝  I'm open to collaborating on Projects
+* ⚡  Fun fact the best way to predict the future is to invent it
+
 ### Skills
 
 <p align="left">
